@@ -1,2 +1,2 @@
 # Sphyna_Hybridization
-Files and scripts for identifying scalloped and Carolina hammerhead hybrids 
+Files and scripts for identifying species/hybrids
